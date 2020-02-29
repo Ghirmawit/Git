@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dedcf292-b647-422a-90fb-182c8795efdb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,17 +72,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="text">
-                    <value>
-                      <list>
-                        <option value="1`" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -94,10 +84,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1582989982562" />
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1582993028822">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1582994319398">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1582993028822" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.833@0.23.1440.833" timestamp="1582994319398" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582991610267">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
