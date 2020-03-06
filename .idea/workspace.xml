@@ -4,6 +4,7 @@
     <list default="true" id="dedcf292-b647-422a-90fb-182c8795efdb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ReserveRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ReserveRoom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,5 +106,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582991610266" />
+    <state x="97" y="72" key="new project wizard" timestamp="1583011707940">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1583011707940" />
   </component>
 </project>
